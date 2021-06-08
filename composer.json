@@ -1,0 +1,8 @@
+{
+    "name": "salsa/salsa",
+    "type": "project",
+    "license": "GPL",
+    "require": {
+        "google/apiclient": "^2.9"
+    }
+}
